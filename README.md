@@ -28,7 +28,7 @@ In this challenge, you will mimic a real-world R&D pipeline, moving from rapid p
     Once your logic is validated, you will "graduate" your code to [Brev](https://brev.nvidia.com/) to complete Milestone 3 and 4. Brev provides on-demand access to a wide variety of NVIDIA GPU architectures (L4s, T4s, A100s, ...). We have provided a pre-configured GPU environment for this environment called a **Launchable**. You will use Brev to test your solution across different hardware configurations and unlock full GPU acceleration.
 
     ### Milestones: 
-    3. **Build**: Validate your algorithm on a CPU in qBraid in the previous milestone, then migrate to Brev to deploy full GPU acceleration.
+    3. **Build**: Inmplement your algorithm in CUDA-Q and validate it on a CPU in qBraid, then migrate to Brev to deploy full GPU acceleration.
 
     4. **Showcase and Retrospective**: Present your solution, performance metrics, and your AI-driven workflow.
 
