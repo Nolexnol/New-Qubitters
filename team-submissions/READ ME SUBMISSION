@@ -7,7 +7,10 @@ could optimize the code and get even better results for larger datasets as it se
 
 We will be pushing the Following files in our submission:
 1. READ ME SUBMISSION
-2. NQ-PHASE2 SUBMISSION ( The final code submitted for the hackathon problem)
+2. NQ-PHASE2 SUBMISSION 
+  EXPLORATIONipynb for CPU work of our code
+  Phase2_GPU_Results
+  ( The final code submitted for the hackathon problem)
 3. NQ PRESENTATION (for our code)
 4.ai_report inside phase2_readme
 5. Code snippents of different functions
